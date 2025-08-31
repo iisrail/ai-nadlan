@@ -74,3 +74,5 @@ Miniconda
 GIS stack: geopandas, fiona, gdal, pyproj, shapely, rtree, pyogrio
 
 Analysis: scikit-learn, osmnx, matplotlib, pyarrow, tqdm, requests, jupyter
+
+https://drive.google.com/drive/folders/1Y_YW4kpN46gKO37aGlRPycyO01zn93oQ?usp=sharing
