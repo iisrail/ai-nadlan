@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda / venv
+.env
+.venv
+*.egg-info/
+*.egg
+*.bak
+
+# Data (large raw files – share separately)
+data/shape/
+data/exports/*.parquet
+data/exports/*.geojson
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
